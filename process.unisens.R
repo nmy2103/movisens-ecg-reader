@@ -1,5 +1,8 @@
-#' Process and extract ECG data from the XMLfile exported from Movisens 
-#' SensorManager.
+#' Preprocess ECG from a Unisens file
+#' 
+#' @description
+#' Preprocess ECG data from the XML file exported from the Movisens 
+#' SensorManager software.
 #' 
 #' @param file The path of the XML file exported from SensorManager.
 #' @return A data frame with the recording information.
